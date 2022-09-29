@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "403523490455",
+    "firebase_url": "https://nfactorialtesting-default-rtdb.firebaseio.com",
+    "project_id": "nfactorialtesting",
+    "storage_bucket": "nfactorialtesting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403523490455:android:3dc9ca5657e74b8e630fd2",
+        "android_client_info": {
+          "package_name": "com.example.android_kbtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403523490455-3ui59acj63m6j4kps7jjpvao5803nas1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIoSp6IAkeG4RqYJ7lKjy2SaygPyI5Tfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403523490455-3ui59acj63m6j4kps7jjpvao5803nas1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "403523490455-l5u6a3ibgo4hph4c5hpeq5g79576gmi2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.domino.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
